@@ -1,0 +1,26 @@
+# UI and Dashboard Framework
+streamlit
+
+# Data Handling and Analysis
+pandas
+numpy
+
+# Visualization (Interactive & Static)
+plotly
+matplotlib
+seaborn
+
+# Machine Learning and Clustering
+scikit-learn
+
+# Generative AI Integration
+google-generativeai
+
+# Excel Exporting Engine
+xlsxwriter
+
+# Statistical Analysis (Required for Plotly trendlines)
+statsmodels
+
+# Dependency Management (Ensures stability between Gemini and TensorFlow)
+protobuf>=3.20.3,<5.0.0
